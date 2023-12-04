@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, my name is <a href="https://fransirvent1994">Francisco</a> 👋</h1>
-<h2 align="center">I´m a Computer Engineering at UOC (Universitat Oberta de Catalunya) from Alicante, Spain. I´ve been studying multiple programming languages, but mostly Python, which is the one with I work in my projects at this moment. I´m a passionate about science, computers and technology, so I´m looking for become a professional on these fields.</h2>
+<h2 align="center">I´m a Computer Engineering at UOC (Universitat Oberta de Catalunya) from Alicante, Spain. I´ve been studying multiple programming languages, but mostly Python, which is the one with I work in my projects at this moment. I´m a passionate about science, computers and technology, so I´m looking for become a professional on these fields. I will update here my projects as soon as I get them improving.</h2>
 </div>
 
 ## LinkedIn profile
@@ -25,13 +25,14 @@
 <td width="50%">
 <h3 align="center">Voice Assistant</h3>
 <div align="center">
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant" target="_blank"><img src="https://image.news.livedoor.com/newsimage/stf/8/9/89e48_1127_b373474e_bd71f39f.jpg" width="400" alt="Voice Assistant Project"></a>
+<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant" target="_blank">
+<img src="https://image.news.livedoor.com/newsimage/stf/8/9/89e48_1127_b373474e_bd71f39f.jpg" width="400" alt="Voice Assistant Project"></a>
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Voice Assistant code: My project to get a virtual assistant to get voice orders from user and get them done.</p>
+<p>Voice Assistant code: A virtual assistant. Ask orders and it will answer and get them done.</p>
 </div>
                                                                                       
 </td>
@@ -47,7 +48,7 @@
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>The Hangman Tree: classic game but never too old. It has hints in case need help.</p>
+</p>The Hangman Tree: Classic game but never too old. It has hints in case help is needed.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
