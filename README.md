@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, my name is <a href="https://fransirvent1994">Francisco</a> 👋</h1>
-<h2 align="center">I´m a Computer Engineering at UOC (Universitat Oberta de Catalunya) from Alicante, Spain. I´ve been studying multiple programming languages, but mostly Python, which is the one with I work in my projects at this moment. I´m a passionate about science, computers and technology, so I´m looking for become a professional on these fields. I will update here my projects as soon as I get them improving.</h2>
+<h2 align="center">I´m a Computer Engineering at UOC (Universitat Oberta de Catalunya) from Alicante, Spain. I´ve been studying multiple programming languages, but mostly Python, which is the one with I work in my projects at this moment. I´m a passionate about science, computers and technology, so I´m looking for become a professional on these fields. I will update my projects as soon as I get them improved at the "Visible Projects" repository.</h2>
 </div>
 
 ## LinkedIn profile
