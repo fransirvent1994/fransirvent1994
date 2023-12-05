@@ -11,10 +11,12 @@
 ## About me
 - Python Developer
 - Django/Flask
-- C Programming
+- Databases, SQL and Data Science with Python
+- C
 - C++
 - SQL
-- Databases, SQL and Data Science with Python
+- HTML
+- CSS
 - Spanish/English
 - Passion about technology
 <br>
