@@ -6,7 +6,8 @@ I´m a Computer Engineering at UOC (Universitat Oberta de Catalunya) from Alican
 
 I´ve been studying multiple programming languages, but mostly Python, which is the one with I work in my projects at this moment. 
 
-I´m a passionate about science, computers and technology, so I´m looking for become a professional on these fields. I will be udpdating my projects as soon as I get them improved at the "Visible Projects". repository.</h2>
+I´m a passionate about science, computers and technology, so I´m looking for become a professional on these fields. I will be udpdating my projects as soon as I get them improved at the "Visible Projects" repository.
+</h2>
 </div>
 
 ## LinkedIn profile
