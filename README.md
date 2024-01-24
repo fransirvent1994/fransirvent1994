@@ -2,7 +2,7 @@
 <h1 align="center">Hi, my name is <a href="https://github.com/fransirvent1994">Francisco</a> 👋</h1>
 <h2 align="center">
 
-I´m a Computer Engineering at UOC (Universitat Oberta de Catalunya) from Alicante, Spain. 
+I´m a Computer Engineering student at UOC (Universitat Oberta de Catalunya) from Alicante, Spain. 
 
 I´ve been studying multiple programming languages, but mostly Python, which is the one with I work in my projects at this moment. 
 
