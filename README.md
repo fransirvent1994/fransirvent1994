@@ -70,7 +70,7 @@ I´m a passionate about science, computers and technology, so I´m looking for b
 <td width="50%">
 <h3 align="center">Face recognition</h3>
 <div align="center">
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition" target="_blank">
+<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
 <img src="https://www.vhv.rs/dpng/d/232-2327111_transparent-recognition-clipart-face-recognition-logo-png-png.png" width="400" alt="Face Recognition">
 </a>
 <br>
