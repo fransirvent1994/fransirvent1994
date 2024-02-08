@@ -36,7 +36,7 @@ I´m a passionate about science, computers and technology, so I´m looking for b
 <td width="50%">
 <h3 align="center">Voice Assistant</h3>
 <div align="center">
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant" target="_blank">
+<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py" target="_blank">
 <img src="https://image.news.livedoor.com/newsimage/stf/8/9/89e48_1127_b373474e_bd71f39f.jpg" width="400" alt="Voice Assistant Project"></a>
 <p>
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant" target="_blank">
