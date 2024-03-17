@@ -1,19 +1,23 @@
 <div align="center">
 <h1 align="center">Hi, my name is <a href="https://github.com/fransirvent1994">Francisco</a> 👋</h1>
-<h2 align="center">
+<p align="center">
 
-I´m a Computer Engineering student at UOC (Universitat Oberta de Catalunya) from Alicante, Spain. 
+Hello everyone!
 
-I´ve been studying multiple programming languages, but mostly Python, which is the one with I work in my projects at this moment. 
+I´m a Computer Engineering student at UOC University (Universitat Oberta de Catalunya) and I´m a young Python Developer passionate about techs and programming.
 
-I´m a passionate about science, computers and technology, so I´m looking for become a professional on these fields. I will be udpdating my projects as soon as I get them improved at the "Visible Projects" repository.
-</h2>
+I´ve studied different programming languages, but my main programming language is Python, followed by JavaScript, and I have some projects on my profile to be seen.
+
+At this moment, I´m studying DevOps technology, which is my primary objective to achieve and finally getting a role about it.
+</p>
 </div>
 
 ## LinkedIn profile
+<p>
 <a href="https://www.linkedin.com/in/francisco-m-sirvent-candea-68749719b">
 <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn profile" width="150" height="100">
 </a>
+
 
 ## About me
 - Python Developer
