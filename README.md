@@ -37,7 +37,8 @@ At this moment, I´m studying DevOps technology, which is my primary objective t
 
 ## My projects
 <p align="center">These are my actual projects (more upcoming) and most of them are made with Python, but in the future I will upload repositories with DevOps Tools, so keep updated here and take a look to my projects.</p>
-<h1 align="center">This is my repository to see my projects ready to be shown<a href="https://github.com/fransirvent1994/VisibleProjects"> <br>Visible Projects</a></br></h1>
+<h1 align="center">This is my repository to see my projects ready to be shown:<a href="https://github.com/fransirvent1994/VisibleProjects"> <br>Visible Projects</a></br></h1>
+<h1 align="center"> Also I have some repositories to teach about Python:<a href= "https://github.com/fransirvent1994/Python-Basics.git"><br>Python Basics</a></br></h1>
 <table>
 <tr>
 <td width="50%">
