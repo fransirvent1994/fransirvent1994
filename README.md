@@ -80,7 +80,7 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 
 <table>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py"><ins>📷Face recognition></ins></a></h3>
+<h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py"><ins>📷Face recognition</ins></a></h3>
 <div align="center">
 <a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
 <img src="https://www.vhv.rs/dpng/d/232-2327111_transparent-recognition-clipart-face-recognition-logo-png-png.png" width="400" alt="Face Recognition">
