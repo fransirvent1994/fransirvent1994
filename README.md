@@ -5,21 +5,32 @@
 
 Hello everyone!
 
-I´m a Computer Engineering student at UOC University (Universitat Oberta de Catalunya) and I´m a young Python Developer passionate about techs and programming.
+I´m a Computer Engineering student at UOC University (Universitat Oberta de Catalunya) and a young Python Developer passionate about techs and programming.
 
-I´ve studied different programming languages, but my main programming language is Python, followed by JavaScript, and I have some projects on my profile to be seen.
+I´ve studied different programming languages for years, as C, C++ and C#, but my main programming language is Python, followed by JavaScript, and I have some projects on my profile to take a look.
+
+Also I have skills with front end program languages.
 
 At this moment, I´m studying DevOps technology, which is my primary objective to achieve and finally getting a role about it.
 </p>
 </div>
 
 <h2>
-<ins><b>🔗LinkedIn profile🔗</ins></b>
+<b>🔗<ins>LinkedIn profile</ins></b>
+<p>
 <a href="https://www.linkedin.com/in/francisco-m-sirvent-candea-68749719b">
 <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn profile" width="150" height="100">
-<ins><b📫G-Mail📫></b></ins>
-<a href="fsirventcandea@gmail.com">
-<img src="https://th.bing.com/th/id/R.ae1fbd64a793791023ce79747500f709?rik=z%2bHyd97vQbPpFA&pid=ImgRaw&r=0" alt="GMail" width="150" height="100">
+</a>
+</p>
+</h2>
+  
+<h2>
+<b>📫<ins>GMail</ins></b>
+<p>
+<a href="https://www.fsirventcandea@gmail.com">
+<img src="https://th.bing.com/th/id/R.ae1fbd64a793791023ce79747500f709?rik=z%2bHyd97vQbPpFA&pid=ImgRaw&r=0" alt="GMail" width="100" height="100">
+</a>
+</p>
 </h2>
 
 
@@ -46,8 +57,9 @@ These are my actual projects (more upcoming) and most of them are made with Pyth
 <h2 align="center"> Also I have some repositories to teach about Python:<a href= "https://github.com/fransirvent1994/Python-Basics.git"><br><ins>Python Basics</ins></a></br></h2>
 
 <h2>
-<ins><b>🔨My projects🔨</ins></b>
+<b>🔨<ins>My projects</ins>🔨</b>
 </h2>
+
 <table>
 <tr>
 <td width="50%">
