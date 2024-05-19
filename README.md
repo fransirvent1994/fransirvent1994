@@ -14,14 +14,20 @@ At this moment, I´m studying DevOps technology, which is my primary objective t
 </div>
 
 <h2>
-<ins><b>🔗LinkedIn profile</ins></b>
+<ins><b>🔗LinkedIn profile🔗</ins></b>
 </h2>
 <p>
 <a href="https://www.linkedin.com/in/francisco-m-sirvent-candea-68749719b">
 <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn profile" width="150" height="100">
 </a>
 </p>
-
+<p>
+<ins><b>📫G-Mail📫</b></ins>
+<a href="fsirventcandea@gmail.com">
+<img src="https://th.bing.com/th/id/R.ae1fbd64a793791023ce79747500f709?rik=z%2bHyd97vQbPpFA&pid=ImgRaw&r=0" alt="GMail" width="150" height="100">
+</a>
+</p>
+  
 <ins><b>💻Skills and techs💻</b></ins>
 - Python Developer
 - Django/Flask
