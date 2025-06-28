@@ -1,111 +1,157 @@
 <div align="center">
-<h1 align="center">Hi, my name is Francisco</a>👋</h1>
-  
-<p align="center">
+    <h1>
+        Greetings! 👋 I'm Francisco Sirvent
+    </h1>
+    <p>
+        I'm a Computer Engineering student at UOC (Universitat Oberta de Catalunya) and a passionate about science and technologies, specially programming and Cybersecurity, which are my main career focus.
+    </p>
+    <p>
+        I´m Spanish and also bilingual with English, learning German, curious and willing to learn new things.
+    </p>
 
-Hello everyone!
+<!-- Contact Links -->
+<table border="0" align="center" width="100%">
+    <tr>
+        <td colspan="3" align="center">
+            <h3><ins>My Contact Social Medias</ins></h3>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="33%">
+            <h3><ins>📫Contact</ins></h3>
+            <a href="mailto:fsirventcandea@gmail.com">
+                <img src="https://th.bing.com/th/id/R.ae1fbd64a793791023ce79747500f709?rik=z%2bHyd97vQbPpFA&pid=ImgRaw&r=0" alt="Email" width="90">
+            </a>
+        </td>
+        <td align="center" width="33%">
+            <h3><ins>🔗LinkedIn</ins></h3>
+            <a href="https://www.linkedin.com/in/francisco-m-sirvent-candea-68749719b">
+                <img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn Profile" width="110">
+            </a>
+        </td>
+    </tr>
+</table>
 
-I´m a Computer Engineering student at UOC University (Universitat Oberta de Catalunya) and a young Python Developer passionate about techs and programming.
+<!-- Skills Section -->
+<table border="0" align="center" width="100%">
+    <tr>
+        <td colspan="2" align="center">
+            <h2><ins>💻Skills and Technologies💻</ins></h2>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <h2><b>Developer</b></h2>
+            <ul align="left">
+                <li>Python with Django and Flask</li>
+                <li>JavaScript, C and C++</li>
+                <li>HTML, CSS, React</li>
+                <li>Docker, Kubernetes, Git</li>
+                <li>Linux expert</li>
+            </ul>
+        </td>
+        <td align="center" width="50%">
+            <h2><b>Cybersecurity</b></h2>
+            <ul align="left">
+                <li>Kali Linux</li>
+                <li>Bash</li>
+                <li>Nmap, Wireshark, Metasploit</li>
+                <li>Vulnerabilites scan</li>
+                <li>Security reports</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
-I´ve studied different programming languages for years, as C, C++ and C#, but my main programming language is Python, followed by JavaScript, and I have some projects on my profile to take a look.
+<!-- My certificates -->
+<table border="0" align="center" width="100%">
+    <tr>
+        <td colspan="4" align="center">
+            <h2><ins>My Career Certificates</ins></h2>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">
+            <h2><b>Programming</b></h2>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="25%">
+            <a href="https://www.credly.com/badges/65ed31fa-9f14-498f-801e-faf6389ecf5b/public_url">
+                <img src="https://images.credly.com/size/110x110/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png" alt="IBM Data Science Badge" width="150" height="130">
+            </a>
+        </td>
+        <td align="center" width="25%">
+            <a href="https://www.credly.com/badges/bf5afe1e-6b91-4a6b-9978-870032cc92e1/public_url">
+                <img src="https://images.credly.com/size/110x110/images/4d81763c-b917-4ab9-92be-103af95c0a21/image.png" alt="Google AI Essentials Badge" width="150" height="140">
+            </a>
+        </td>
+        <td align="center" width="25%">
+            <a href="https://www.credly.com/badges/8d31ae5c-6b53-467c-a90e-10c950ac5ece/public_url">
+                <img src="https://images.credly.com/size/340x340/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png" alt="Google AI Essentials Badge" width="150" height="140">
+            </a>
+        </td>
+        <td align="center" width="25%">
+            <a href="https://www.credly.com/badges/c33ea208-5590-4126-8530-861ef0c7f4bd/public_url">
+                <img src="https://images.credly.com/size/340x340/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Automation with Python Professional Badge" width="150" height="140">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="4" align="center">
+            <h2><b>Cybersecurity</b></h2>
+        </td>
+    </tr>
+</table>
 
-Also I have skills with front end program languages.
+<!-- GitHub Repositories Section -->
+<table border="0" align="center" width="100%">
+    <tr>
+        <td colspan="3" align="center">
+            <h2><ins>👨‍💻 GitHub Repositories 👨‍💻</ins></h2>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="33%">
+            <a href="https://github.com/fransirvent1994">
+                <h3><ins>My GitHub Profile</ins></h3>             
+                <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="My GitHub Profile" width="150" height="110">
+            </a>
+        </td>
+        <td align="center" width="33%">
+            <a href="https://github.com/fransirvent1994/VisibleProjects">
+                <h3><ins>My Projects</ins></h3>  
+                <img src="https://static.vecteezy.com/system/resources/previews/008/842/382/original/an-old-open-book-with-abstract-text-illustration-in-cartoon-style-on-a-white-background-vector.jpg" alt="Visible Projects" width="140" height="130">
+            </a>
+        </td>
+        <td align="center" width="33%">
+            <a href="https://github.com/fransirvent1994/Python-Basics">
+                <h3><ins>Teaching about Python.</ins></h3>
+                <img src="https://www.kindpng.com/picc/m/159-1595772_transparent-python-logo-hd-png-download.png" alt="Python Basics" width="120" height="120">
+            </a>
+        </td>
+    </tr>
+</table>
 
-At this moment, I´m studying DevOps technology, which is my primary objective to achieve and finally getting a role about it.
-</p>
-</div>
-
-<h2>
-<b>🔗<ins>LinkedIn profile</ins></b>
-<p>
-<a href="https://www.linkedin.com/in/francisco-m-sirvent-candea-68749719b">
-<img src="https://logosmarcas.net/wp-content/uploads/2020/04/Linkedin-Logo.png" alt="LinkedIn profile" width="150" height="100">
-</a>
-</p>
-</h2>
-  
-<h2>
-<b>📫<ins>GMail</ins></b>
-<p>
-<a href="https://www.fsirventcandea@gmail.com">
-<img src="https://th.bing.com/th/id/R.ae1fbd64a793791023ce79747500f709?rik=z%2bHyd97vQbPpFA&pid=ImgRaw&r=0" alt="GMail" width="100" height="100">
-</a>
-</p>
-</h2>
-
-
-  
-<ins><b>💻Skills and techs💻</b></ins>
-- Python Developer
-- Django/Flask
-- Databases, SQL and Data Science with Python
-- Machine Learning
-- C
-- C++
-- SQL
-- HTML
-- CSS
-- DevOps (Git, Linux, Ubuntu, Docker, Kubernetes, Jenkins)
-- Spanish/English
-- Passion about technology
-
-<h2>
-👷<ins><b>These are my repositories to show my projects.</b></ins>
-</h2>
-These are my actual projects (more upcoming) and most of them are made with Python, but in the future I will upload repositories with DevOps Tools, so keep updated here and take a look to my projects.
-<h2 align="center">My repository to see my projects ready to be shown:<a href="https://github.com/fransirvent1994/VisibleProjects"> <br><ins>Visible Projects</ins> </a> <br>(also they are down this page)</br></br></h2>
-<h2 align="center"> Also I have some repositories to teach about Python:<a href= "https://github.com/fransirvent1994/Python-Basics.git"><br><ins>Python Basics</ins></a></br></h2>
-
-<h2>
-<b>🔨<ins>My projects</ins>🔨</b>
-</h2>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py"><ins>🤖Voice Assistant</ins></a></h3>
-<div align="center">
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py" target="_blank">
-<img src="https://image.news.livedoor.com/newsimage/stf/8/9/89e48_1127_b373474e_bd71f39f.jpg" width="400" alt="Voice Assistant Project"></a>
-<p>
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/VoiceAssistant.py" target="_blank">
-<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Voice Assistant code: A virtual assistant. User can command it to do different things, like search in the net, play music or do maths.</p>
-</div>
-                                                                                      
-</td>
-
-<td width="50%">
-<h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py"><ins>🎮The Hanging Tree</ins></a></h3>
-<div align="center">                                       
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank"><img src="https://media.istockphoto.com/illustrations/simple-illustration-of-hangman-game-illustration-id1196954772?k=6&m=1196954772&s=170667a&w=0&h=iNA3SlxYdtJZrtzu7uxEv18YCGEepC-Zs8gmSgvSg6c=" width="400" alt="Hanging Tree"></a>
-<p>
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Hanging%20Tree.py" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-</p>The Hangman Tree: Classic game to guess words by choosing letters.</p>
-</td>
-</div>                                                             
-</table>                                                                                 
-</div>
-
-<table>
-<td width="50%">
-<h3 align="center"><a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py"><ins>📷Face recognition</ins></a></h3>
-<div align="center">
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
-<img src="https://www.vhv.rs/dpng/d/232-2327111_transparent-recognition-clipart-face-recognition-logo-png-png.png" width="400" alt="Face Recognition">
-</a>
-<p>
-<a href="https://github.com/fransirvent1994/VisibleProjects/blob/main/Face%20Recognition.py" target="_blank">
-<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-</p>
-<p>Face Recognition code: This program allows the user to compare different pictures between them and it determines if they are the same person or not.</p>
-</td>
-</div>                                                                               
-</table>                                                                                 
-</div>
+<!-- Cybersecurity info -->
+<table border="0" align="center" width="100%">
+    <tr>
+        <td colspan="2" align="center">
+            <h2><ins>👨‍💻 Cybersecurity 👨‍💻</ins></h2>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="50%">
+            <a href="https://fransirvent1994.github.io/Cybersecurity/Experience/Experience.html">
+                <h3><ins>Experience</ins></h3>             
+                <img src="https://static.vecteezy.com/system/resources/previews/002/697/479/original/cybersecurity-icon-on-white-vector.jpg" alt="Cybersecurity experience" width="150" height="140">
+            </a>
+        </td>
+        <td align="center" width="50%">
+            <a href="">
+                <h3><ins>Projects</ins></h3>
+                <img src="https://img.freepik.com/vector-premium/icono-seguridad-cibernetica-cifrado-concepto-seguro-protegido-datos-ciberseguridad_136875-4238.jpg" alt="Projects" width="150" height="130">
+            </a>
+        </td>
+    </tr>
+</table>
